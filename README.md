@@ -2,7 +2,7 @@
 
 
 ## Hello, I'm Anjali Singh! 👋
-### Salesforce Developer
+## Salesforce Developer
 
 Welcome to my GitHub profile! Here are some things about me:
 
