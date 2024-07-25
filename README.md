@@ -1,4 +1,4 @@
-![Banner](https://example.com/path-to-your-banner-image)
+![Banner](https://github.com/AnjliS/Salesforce-Certificates/blob/main/LinkedIn%20banner%20salesforce.png)
 
 
 ## Hello, I'm Anjali Singh! 👋
