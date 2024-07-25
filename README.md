@@ -1,3 +1,6 @@
+![Banner](https://example.com/path-to-your-banner-image)
+
+
 ## Hello, I'm Anjali Singh! 👋
 
 Welcome to my GitHub profile! Here are some things about me:
