@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! Here are some things about me:
 
-🌟 I am an enthusiastic Salesforce Developer with proficiency in Salesforce Development, Salesforce Administration, Apex, Triggers, Lightning Web Components (LWC) technologies on the Sales and Service Clouds of the Salesforce CRM Platform.
+🌟 I am an enthusiastic Salesforce Developer with proficiency in ***Salesforce Development***, ***Salesforce Administration***, ***Apex***, ***Triggers***, ***Lightning Web Components (LWC)*** and ***Integration technologies*** on the ***Sales and Service Clouds*** of the Salesforce CRM Platform.
 
 ⚡ I take great joy in applying my Salesforce development skills to help businesses automate processes, integrate systems, improve efficiency, and build scalable, user-friendly applications.
 
