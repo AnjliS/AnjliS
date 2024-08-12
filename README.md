@@ -18,6 +18,9 @@ Welcome to my GitHub profile! Here are some things about me:
 - 📫 How to reach me: [email@example.com](mailto:email@example.com)
 - 😄   🔭 
 -  Fun fact: I love hiking and photography
-
-![Profile views](https://gpvc.arturio.dev/AnjliS)
 -->
+![Profile views](https://gpvc.arturio.dev/AnjliS)
+
+Watch the demo video to see how to quickly navigate through the **Order Explorer** LWC page, summarizing objects in the **warehouse management system** App:
+
+https://github.com/user-attachments/assets/794d6935-083e-4cfa-b48a-92c093efa3f4
