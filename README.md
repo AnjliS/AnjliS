@@ -4,19 +4,34 @@
 ## Hello, I'm Anjali Singh! 👋
 ## Salesforce Developer
 
-Welcome to my GitHub profile! Here are some things about me:
+Welcome to my GitHub profile!
+
+### 🌟 About Me
+- 🔭 I’m currently seeking opportunities as a Salesforce Developer.
 
 🌟 I am an enthusiastic Salesforce Developer with proficiency in ***Salesforce Development***, ***Salesforce Administration***, ***Apex***, ***Triggers***, ***Lightning Web Components (LWC)*** on the ***Sales and Service Clouds*** of the Salesforce CRM Platform.
 
 ⚡ I take great joy in applying my Salesforce development skills to help businesses automate processes, integrate systems, improve efficiency, and build scalable, user-friendly applications.
 
 
-### 🌟 About Me
-- 🔭 I’m currently seeking opportunities as a Salesforce Developer.
-- 🌱 I’m currently learning Salesforce Integration with external systems.
+
+### 🎯 **Skills**
+
+🛠️⚙️**Salesforce Development:**
+Apex | Triggers | Lightning Web Components (SLDS, Lightning Data Service, Lightning Message Service, Lifecycle Hooks, Shadow DOM) | Asynchronous Apex (Future Method, Scheduleable, Queueable, Batch Interfaces) | SOQL | Visualforce Pages | Wrapper Classes | Test Classes | Sales Cloud | Service Cloud | Error and Exception Handling
+
+🔐✅**Salesforce Administration:**
+Security Architecture | Flows | Process Builder | Approval Processes | Validations | Data Loader | Reports and Dashboards
+
+🌐🔑**Salesforce Integration:**
+REST/SOAP Web Services | Salesforce APIs | Custom Apex REST APIs | Apex Callouts | OAuth 2.0 Authorizations | Postman
+
+💻🌟**Other Technical Skills:**
+JavaScript | HTML | CSS | Object-Oriented Programming | Java | GitHub
 
 
-## Project Demo
+
+🌐## Project Demo
 1- Here is a demo video showcasing the **Order Explorer** app page, built with Lightning Web Components (LWC), designed to quickly navigate through objects in the **Warehouse Management System**.
 
 https://github.com/user-attachments/assets/794d6935-083e-4cfa-b48a-92c093efa3f4
