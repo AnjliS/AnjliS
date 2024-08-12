@@ -36,11 +36,12 @@ https://github.com/user-attachments/assets/794d6935-083e-4cfa-b48a-92c093efa3f4
 
 
 ##
-2- Here is a demo video for generating Quote PDF and then Emailing the PDF to the user.
+2- Here is a demo video for **generating Quote PDF** and then **Emailing the PDF** to the user.
 
 https://github.com/user-attachments/assets/1481338b-5d97-4213-8956-d7fb351cd7b7
 
 
+##
 - 📫 How to reach me:
 - Email: [213anjalisingh@gmail.com](mailto:213anjalisingh@gmail.com)
 - LinkedIn: (https://www.linkedin.com/in/anjalisingh15/)
