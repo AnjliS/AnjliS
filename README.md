@@ -19,7 +19,10 @@ Welcome to my GitHub profile! Here are some things about me:
 - 😄   🔭 
 -  Fun fact: I love hiking and photography
 -->
-![Profile views](https://gpvc.arturio.dev/AnjliS)
+
+![Profile views](https://img.shields.io/badge/Profile%20views-1234-blue)
+
+
 
 Watch the demo video to see how to quickly navigate through the **Order Explorer** LWC page, summarizing objects in the **warehouse management system** App:
 
