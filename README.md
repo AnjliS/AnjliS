@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/1481338b-5d97-4213-8956-d7fb351cd7b7
 
 - 📫 How to reach me:
 - Email: [213anjalisingh@gmail.com](mailto:213anjalisingh@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/anjalisingh15/)(https://www.linkedin.com/in/anjalisingh15/)
+- LinkedIn: (https://www.linkedin.com/in/anjalisingh15/)
 
 
 
