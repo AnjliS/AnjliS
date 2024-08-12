@@ -7,13 +7,13 @@
 Welcome to my GitHub profile!
 
 ### 🌟 About Me
-- 🔭 I’m currently seeking opportunities as a Salesforce Developer.
+- 🔭 I’m currently **seeking opportunities as a Salesforce Developer**.
 
 🌟 I am an enthusiastic Salesforce Developer with proficiency in ***Salesforce Development***, ***Salesforce Administration***, ***Apex***, ***Triggers***, ***Lightning Web Components (LWC)*** on the ***Sales and Service Clouds*** of the Salesforce CRM Platform.
 
 ⚡ I take great joy in applying my Salesforce development skills to help businesses automate processes, integrate systems, improve efficiency, and build scalable, user-friendly applications.
 ##
-👉 [Click here to download my Resume](URL_TO_YOUR_RESUME)
+👉 [Click here to download my Resume](https://github.com/AnjliS/Salesforce-Certificates/blob/main/Anjali%20Singh%20Salesforce%20Developer%20Resume.pdf)
 
 ## 
 ### 🎯 **Skills**
