@@ -14,7 +14,6 @@ Welcome to my GitHub profile!
 ⚡ I take great joy in applying my Salesforce development skills to help businesses automate processes, integrate systems, improve efficiency, and build scalable, user-friendly applications.
 
 
-
 ### 🎯 **Skills**
 
 🛠️⚙️**Salesforce Development:**
@@ -30,8 +29,7 @@ REST/SOAP Web Services | Salesforce APIs | Custom Apex REST APIs | Apex Callouts
 JavaScript | HTML | CSS | Object-Oriented Programming | Java | GitHub
 
 
-
-🌐## Project Demo
+### 🌐 Project Demo
 1- Here is a demo video showcasing the **Order Explorer** app page, built with Lightning Web Components (LWC), designed to quickly navigate through objects in the **Warehouse Management System**.
 
 https://github.com/user-attachments/assets/794d6935-083e-4cfa-b48a-92c093efa3f4
