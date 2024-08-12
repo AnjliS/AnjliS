@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here are some things about me:
 -  Fun fact: I love hiking and photography
 -->
 
-![Profile views](https://img.shields.io/badge/Profile%20views-1234-blue)
+![Profile views](https://gpvc.arturio.dev/AnjliS)
 
 
 
