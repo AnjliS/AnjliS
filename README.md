@@ -7,7 +7,7 @@
 Welcome to my GitHub profile!
 
 ### 🌟 About Me
-- 🔭 I’m currently **seeking opportunities as a Salesforce Developer**.
+- 🔭 I’m currently **working as a Salesforce Developer intern, with 6 months of experience**.
 
 🌟 I am an enthusiastic Salesforce Developer with proficiency in ***Salesforce Development***, ***Salesforce Administration***, ***Apex***, ***Triggers***, ***Lightning Web Components (LWC)*** on the ***Sales and Service Clouds*** of the Salesforce CRM Platform.
 
@@ -28,7 +28,10 @@ Security Architecture | Flows | Process Builder | Approval Processes | Validatio
 REST/SOAP Web Services | Salesforce APIs | Custom Apex REST APIs | Apex Callouts | OAuth 2.0 Authorizations | Postman
 
 💻🌟**Other Technical Skills:**
-JavaScript | HTML | CSS | Object-Oriented Programming | Java | GitHub
+Postman | Jira | Salesforce Inspector | Java | GitHub
+
+🎯⚡**Learning:**
+Salesforce cpq | Omnistudio
 
 ##
 ### 🌐 Project Demo
