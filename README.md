@@ -31,7 +31,7 @@ REST/SOAP Web Services | Salesforce APIs | Custom Apex REST APIs | Apex Callouts
 Postman | Jira | Salesforce Inspector | Java | GitHub
 
 🎯⚡**Learning:**
-Salesforce cpq | Omnistudio
+Salesforce CPQ | Omnistudio
 
 ##
 ### 🌐 Project Demo
